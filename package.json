@@ -4,7 +4,8 @@
   "description": "Servidor Express para proxy de API do Roblox",
   "main": "index.js",
   "scripts": {
-    "start": "node proxy.js"
+    "start": "node proxy.js",  // Certifique-se que o arquivo correto está sendo chamado
+    "build": "npm install"  // Comando para instalar dependências, no caso do Railway
   },
   "dependencies": {
     "axios": "^1.7.9",
