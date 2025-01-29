@@ -1,2 +1,0 @@
-# UGC
-Roblox Scripts
