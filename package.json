@@ -2,7 +2,7 @@
   "name": "meu-servidor",
   "version": "1.0.0",
   "description": "Servidor Express para proxy de API do Roblox",
-  "main": "proxy.js",  // Atualizado para refletir o script correto
+  "main": "proxy.js", 
   "scripts": {
     "start": "node proxy.js",  
     "build": "npm install"  
